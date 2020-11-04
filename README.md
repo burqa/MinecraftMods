@@ -12,3 +12,7 @@ Hey there! This repo contains files to some very cool mods i have made.
 3. Find the mods folder inside the .minecraft folder, if you cant find it, create it.
 
 4. Move the mod file of the mod you want, from the MinecraftMods folder, into your mods folder, inside .minecraft.
+
+# NOTE: If you would like to use the instructions in the folder, just change the file extension to .txt and then you can use that as instructions.
+
+^^ For if your offline.
