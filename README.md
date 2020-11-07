@@ -1,3 +1,15 @@
+# UPDATE
+
+A few minutes ago, i was trying to copy and paste something into a new folder, which was successful, but then, I thought I was working on the copy of the mod, but I was actually working on the real one, and when I copied and pasted, it didnt even work correctly, so, now I have to re script most of the mod, so for the rest of this week, their wont be many updates.
+
+
+
+
+
+
+
+
+
 # Burqa's Minecraft       Mods
 
 Hey there! This repo contains files to some very cool mods i have made.
